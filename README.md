@@ -1,53 +1,58 @@
 <!-- header with typing effect or similar -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=48&duration=2000&pause=1000&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=👋+Hello+there!+I’m+its-lightning" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=48&duration=2000&pause=1000&color=7AE2CF&center=true&vCenter=true&width=1000&height=80&lines=Hello+there!+I’m+its-lightning" alt="Typing Header" />
 </p>
 
 <p align="center">
-  Passionate about IoT, AI, and turning ideas into full stack digital experiences.  
-  Building, learning, and exploring — one project at a time ⚡  
+  Exploring the cosmos of coding — [its-lightning/portfolio](https://github.com/its-lightning/portfolio)
 </p>
 
----
-
-## 🔭 What I’m up to
-
-- Designing and deploying my portfolio site: [its-lightning/portfolio](https://github.com/its-lightning/portfolio) — showing off projects, skills, and experiments.  
-- Diving deeper into **AI/ML** workflows — building small tools, automation.  
-- Exploring embedded systems & IoT hardware.  
-- Always learning new tech: (e.g., whatever you’re currently working on: a framework, library, etc.)
 
 ---
 
-## 🛠️ Tech & Tools
+## What I’m up to
+
+- Designing and deploying my new portfolio with gsap   
+- Building my own Convoluted neural network.  
+- Deploying multiplayer socket based games on my own domain.  
+- Writing a research paper on "IoT & ML-Based Predictive Maintenance System"
+
+---
+
+## Tech & Tools
 
 | Area | Technologies |
 |------|---------------|
-| **Frontend / Web** | HTML, CSS, JavaScript, React (if any), etc. |
-| **Backend / APIs** | Node.js, Python, etc. |
-| **AI / ML** | (list the libraries or tools you use: TensorFlow, PyTorch, maybe even small embedded AI) |
-| **Hardware / IoT** | (any microcontrollers, sensors, platforms you're using) |
-| **Other tools** | Git, GitHub Actions, etc. |
+| **Frontend / Web** | three.js, React, Next.js, Node.js, HTML, CSS, JavaScript |
+| **Backend / APIs** | Python |
+| **AI / ML** | TensorFlow, PyTorch, Scikit Learn |
+| **Hardware / IoT** | ESP32 development with platformIO, Micropython |
+| **Other tools** | Git, Docker, Blender (three.js), Mlflow, etc. |
+|------|---------------|
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 > These are some highlights; check out my portfolio site for more
 
-- **[Project A]** — what it does and why it's cool.  
-- **[Project B]** — perhaps something with AI or hardware.  
-- **[Project C]** — maybe a web app or tool you built recently.  
+- **Multiplayer tetris** — A multiplayer Tetris game built with Node.js and Socket.io, featuring real-time gameplay and competitive scoring.
+- **Smart Greenhouse** — An IoT-based greenhouse automation system using ESP32 with sensors for temperature, light, moisture, and gas monitoring, integrated with a website for real-time display.
+- **AI for Tic Tac Toe** — An unbeatable AI agent built using minimax algorithm with pruning for the classic Tic Tac Toe game.
+- **Sudoku Solver and backtracking visualizer** — A web app that solves Sudoku puzzles using backtracking algorithm and visualizes the solving process step-by-step.
+- **Wumpus World Simulation** — A simulation of the Wumpus World problem using AI agents to demonstrate knowledge-based inference and decision-making.
+- **Mystic Sword** — A wave-based, single/multiplayer game with a customizable keybinding system and MySQL database integration for player stats and progression.
+- **** —   
 
 ---
 
-## 💡 Why “its-lightning”
+## Why “its-lightning”
 
-“Lightning” isn’t just fast; it’s spark, bright, charging through ideas. I like experimenting — small side builds, proofs of concept, combining AI + hardware + web stuff.  
+The name is but a placeholder for my personality.  
 
 ---
 
-## 📊 GitHub Stats & Visuals
+## GitHub Stats & Visuals
 
 <p align="center">
   <a href="https://github.com/its-lightning">
@@ -61,26 +66,15 @@
 
 ---
 
-## 🌱 Always Learning
-
-Currently exploring / improving skills in:
-
-- _(Whatever new things you’re learning, e.g.)_ Deep Learning pipelines, embedded AI, edge computing.  
-- Cloud deployment / DevOps (if relevant).  
-- UI/UX polishing / design.  
-
----
-
-## 📫 Connect with me
+## Connect with me
 
 | Platform | Link |
 |----------|------|
-| Portfolio | [its-lightning/portfolio](https://its-lightning.github.io/portfolio) |
+| Portfolio | [its-lightning/portfolio](https://portfolio-rho-mauve-66.vercel.app/) |
 | GitHub | [github.com/its-lightning](https://github.com/its-lightning) |
-| (If you have) LinkedIn | (your LinkedIn link) |
-| Email | (your email) |
+| LinkedIn | [Manoj Srivatsava](https://www.linkedin.com/in/manoj-srivatsava-47b953215/) |
+| Email | (manoj.srivatsava@gmail.com) |
 
 ---
 
-If you’d like, I can generate a version with more visuals (icons, custom badges, maybe a GIF banner) so it looks extra slick. Do you want that?
 ::contentReference[oaicite:0]{index=0}
