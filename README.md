@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Exploring the cosmos of coding — [its-lightning/portfolio](https://github.com/its-lightning/portfolio)
+  Exploring the cosmos of coding — [its-lightning/portfolio](https://portfolio-jctxu92zy-manojsrivatsava-gmailcoms-projects.vercel.app/)
 </p>
 
 
