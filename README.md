@@ -4,9 +4,11 @@
 </p>
 
 <p align="center">
-  Exploring the cosmos of coding — [its-lightning/portfolio](https://portfolio-jctxu92zy-manojsrivatsava-gmailcoms-projects.vercel.app/)
+  Exploring the cosmos of coding — 
+  <a href="https://portfolio-jctxu92zy-manojsrivatsava-gmailcoms-projects.vercel.app/" target="_blank">
+    its-lightning/portfolio
+  </a>
 </p>
-
 
 ---
 
@@ -28,7 +30,6 @@
 | **AI / ML** | TensorFlow, PyTorch, Scikit Learn |
 | **Hardware / IoT** | ESP32 development with platformIO, Micropython |
 | **Other tools** | Git, Docker, Blender (three.js), Mlflow, etc. |
-|------|---------------|
 
 ---
 
