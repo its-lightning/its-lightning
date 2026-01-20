@@ -5,7 +5,7 @@
 
 <p align="center">
   Exploring the cosmos of coding — 
-  <a href="https://portfolio-jctxu92zy-manojsrivatsava-gmailcoms-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-rho-mauve-66.vercel.app/" target="_blank">
     its-lightning/portfolio
   </a>
 </p>
